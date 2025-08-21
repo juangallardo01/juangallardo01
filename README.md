@@ -26,7 +26,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="juanigallardo2001@gmail.com"><img src="https://img.shields.io/badge/-juanigallardo2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/juangallardo01"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[juanigallardo2001@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrglzjNBlcLPvQrRwDDfGhmmfMwNnVPCtgcBxNWgdQFJJjjHlTCwxxzNHXqJkbfpBsftSV)"><img src="https://img.shields.io/badge/-juanigallardo2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="[https://github.com/juangallardo01](https://www.linkedin.com/in/juan-ignacio-gallardo-165b0a214/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
