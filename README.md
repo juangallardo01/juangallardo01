@@ -27,6 +27,6 @@
 
 <p align="center">
 <a href="juanigallardo2001@gmail.com"><img src="https://img.shields.io/badge/-juanigallardo2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="juanigallardo01"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/juangallardo01"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
